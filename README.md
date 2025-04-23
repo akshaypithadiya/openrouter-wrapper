@@ -1,4 +1,4 @@
-# OpenRouter LLM Wrapper
+# OpenRouter Wrapper
 
 A simple LLM wrapper built using [OpenRouter](https://openrouter.ai), supporting both browser and Node.js environments.
 
