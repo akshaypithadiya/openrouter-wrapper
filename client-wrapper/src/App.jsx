@@ -1,10 +1,10 @@
 import React from 'react';
-import LLMWrapper from './LLMWrapper';
+import OpenRouterWrapper from './components/OpenRouterWrapper';
 
 function App() {
   return (
     <div className="App">
-      <LLMWrapper />
+      <OpenRouterWrapper />
     </div>
   );
 }
