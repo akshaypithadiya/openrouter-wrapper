@@ -1,6 +1,6 @@
 # OpenRouter - Client Wrapper
 
-A Open client wrapper for interacting with the OpenRouter API, built for easy integration and customization.
+Client Wrapper for interacting with the OpenRouter API, built for easy integration and customization.
 
 Install dependencies
 
